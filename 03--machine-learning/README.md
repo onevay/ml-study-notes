@@ -19,12 +19,6 @@ Every topic here is broken down on three levels at once:
 | #   | Topic                                                            | Status | Materials                                                  |
 | --- | ---------------------------------------------------------------- | ------ | ---------------------------------------------------------- |
 | 1   | The perceptron and Adaline: the birth of gradient-based learning | ✅     | [`01-perceptron-adaline/`](01-perceptron-adaline/notes.md) |
-| 2   | Logistic regression and its probabilistic interpretation         | ⏳     | —                                                          |
-| 3   | SVM and the support vector method                                | ⏳     | —                                                          |
-| 4   | Decision trees and ensembles (Random Forest, Gradient Boosting)  | ⏳     | —                                                          |
-| 5   | Evaluation metrics, cross-validation, overfitting                | ⏳     | —                                                          |
-| 6   | Multi-layer neural networks and backpropagation                  | ⏳     | —                                                          |
-| 7   | Introduction to CNNs                                             | ⏳     | —                                                          |
 
 ✅ — done · ⏳ — in progress / planned
 
