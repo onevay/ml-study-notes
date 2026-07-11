@@ -16,9 +16,10 @@ Every topic here is broken down on three levels at once:
 
 ## Topics
 
-| #   | Topic                                                            | Status | Materials                                                  |
-| --- | ---------------------------------------------------------------- | ------ | ---------------------------------------------------------- |
-| 1   | The perceptron and Adaline: the birth of gradient-based learning | ✅     | [`01-perceptron-adaline/`](01-perceptron-adaline/notes.md) |
+| #   | Topic                                                                                        | Status | Materials                                                                |
+| --- | -------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
+| 1   | The perceptron and Adaline: the birth of gradient-based learning                             | ✅     | [`01-perceptron-adaline/`](01-perceptron-adaline/notes.md)               |
+| 2   | The classification algorithms. Theory and implementation from scratch and using scikit-learn | ✅     | [`02-classification-algorithms/`](02-classification-algorithms/notes.md) |
 
 ✅ — done · ⏳ — in progress / planned
 
