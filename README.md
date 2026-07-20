@@ -86,11 +86,7 @@ jupyter lab
 
 ## 📌 Progress
 
-- [x] Mathematics: linear algebra — fundamentals
-- [x] ML: the perceptron and Adaline
-- [ ] ML: logistic regression
-- [ ] Data wrangling: pandas fundamentals
-- [ ] Algorithms: sorting and complexity
+- [ ] ML: classic
 
 _(This list is updated as work progresses — a kind of public learning log.)_
 
