@@ -20,6 +20,7 @@ Every topic here is broken down on three levels at once:
 | --- | -------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
 | 1   | The perceptron and Adaline: the birth of gradient-based learning                             | ✅     | [`01-perceptron-adaline/`](01-perceptron-adaline/notes.md)               |
 | 2   | The classification algorithms. Theory and implementation from scratch and using scikit-learn | ✅     | [`02-classification-algorithms/`](02-classification-algorithms/notes.md) |
+| 3   | Data Preprocessing                                                                           | ✅     | [`03-data-preprocessing/`](03-data-preprocessing/notes.md) |
 
 ✅ — done · ⏳ — in progress / planned
 
